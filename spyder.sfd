@@ -1,0 +1,263 @@
+SplineFontDB: 3.0
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Medium
+Copyright: Created by sylvain,,, with FontForge 2.0 (http://fontforge.sf.net)
+UComments: "2015-3-15: Created." 
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+XUID: [1021 771 1555249054 7778687]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1426448682
+ModificationTime: 1426448829
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 29 13
+BeginChars: 256 7
+
+StartChar: uni0001
+Encoding: 1 1 0
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+187.5 675 m 1
+ 625 300 l 1
+ 187.5 -75 l 1
+ 187.5 675 l 1
+500 675 m 1
+ 937.5 300 l 1
+ 500 -75 l 1
+ 500 675 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0002
+Encoding: 2 2 1
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+46.875 675 m 1
+ 484.375 300 l 1
+ 46.875 -75 l 1
+ 46.875 675 l 1
+515.625 675 m 1
+ 697.917 675 l 1
+ 697.917 -75 l 1
+ 515.625 -75 l 1
+ 515.625 675 l 1
+770.833 675 m 1
+ 953.125 675 l 1
+ 953.125 -75 l 1
+ 770.833 -75 l 1
+ 770.833 675 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0003
+Encoding: 3 3 2
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+187.5 675 m 1
+ 812.5 300 l 1
+ 187.5 -75 l 1
+ 187.5 675 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0004
+Encoding: 4 4 3
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+125 675 m 1
+ 875 675 l 1
+ 875 -75 l 1
+ 125 -75 l 1
+ 125 675 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0005
+Encoding: 5 5 4
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+46.875 675 m 1
+ 484.375 300 l 1
+ 46.875 -75 l 1
+ 46.875 675 l 1
+515.625 675 m 1
+ 697.917 675 l 1
+ 697.917 -75 l 1
+ 515.625 -75 l 1
+ 515.625 675 l 1
+770.833 675 m 1
+ 953.125 675 l 1
+ 953.125 -75 l 1
+ 770.833 -75 l 1
+ 770.833 675 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0006
+Encoding: 6 6 5
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+242.188 784.375 m 1
+ 804.688 784.375 l 1
+ 828.125 760.938 l 1
+ 828.125 417.188 l 1
+ 804.688 393.75 l 1
+ 242.188 393.75 l 1
+ 218.75 417.188 l 1
+ 218.75 760.938 l 1
+ 242.188 784.375 l 1
+265.625 737.5 m 1
+ 265.625 440.625 l 1
+ 781.25 440.625 l 1
+ 781.25 737.5 l 1
+ 265.625 737.5 l 1
+304.688 698.438 m 1
+ 742.188 698.438 l 1
+ 742.188 643.747 l 1
+ 304.688 643.747 l 1
+ 304.688 698.438 l 1
+304.688 616.403 m 1
+ 742.188 616.403 l 1
+ 742.188 561.716 l 1
+ 304.688 561.716 l 1
+ 304.688 616.403 l 1
+304.688 534.376 m 1
+ 742.188 534.376 l 1
+ 742.188 479.688 l 1
+ 304.688 479.688 l 1
+ 304.688 534.376 l 1
+646.438 330.388 m 1
+ 646.438 -123.154 l 1
+ 561.257 -123.154 l 1
+ 561.257 84.7158 l 1
+ 348.304 -104.257 l 1
+ 348.304 311.49 l 1
+ 561.257 122.515 l 1
+ 561.257 330.388 l 1
+ 646.438 330.388 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0007
+Encoding: 7 7 6
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+242.188 784.375 m 1
+ 804.688 784.375 l 1
+ 828.125 760.938 l 1
+ 828.125 417.188 l 1
+ 804.688 393.75 l 1
+ 242.188 393.75 l 1
+ 218.75 417.188 l 1
+ 218.75 760.938 l 1
+ 242.188 784.375 l 1
+265.625 737.5 m 1
+ 265.625 440.625 l 1
+ 781.25 440.625 l 1
+ 781.25 737.5 l 1
+ 265.625 737.5 l 1
+304.688 698.438 m 1
+ 742.188 698.438 l 1
+ 742.188 643.747 l 1
+ 304.688 643.747 l 1
+ 304.688 698.438 l 1
+304.688 616.403 m 1
+ 742.188 616.403 l 1
+ 742.188 561.716 l 1
+ 304.688 561.716 l 1
+ 304.688 616.403 l 1
+304.688 534.376 m 1
+ 742.188 534.376 l 1
+ 742.188 479.688 l 1
+ 304.688 479.688 l 1
+ 304.688 534.376 l 1
+671.875 362.5 m 1
+ 671.875 -106.25 l 1
+ 582.589 -106.25 l 1
+ 582.589 108.591 l 1
+ 359.375 -86.7188 l 1
+ 359.375 342.969 l 1
+ 582.589 147.656 l 1
+ 582.589 362.5 l 1
+ 671.875 362.5 l 1
+309.57 155.469 m 2
+ 747.07 155.469 l 2
+ 814.11 155.469 869.141 100.438 869.141 33.3984 c 2
+ 869.141 -48.6328 l 2
+ 869.141 -115.673 814.11 -170.703 747.07 -170.703 c 2
+ 309.57 -170.703 l 2
+ 242.53 -170.703 187.5 -115.673 187.5 -48.6328 c 2
+ 187.5 33.3984 l 2
+ 187.5 100.438 242.53 155.469 309.57 155.469 c 2
+309.57 99.8047 m 2
+ 272.735 99.8047 244.141 70.2334 244.141 33.3984 c 2
+ 244.141 -48.6328 l 2
+ 244.141 -85.4678 272.735 -115.039 309.57 -115.039 c 2
+ 747.07 -115.039 l 2
+ 783.905 -115.039 812.5 -85.4678 812.5 -48.6328 c 2
+ 812.5 33.3984 l 2
+ 812.5 70.2334 783.905 99.8047 747.07 99.8047 c 2
+ 309.57 99.8047 l 2
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
