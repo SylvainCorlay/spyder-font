@@ -1,0 +1,12 @@
+{
+    "continue": "0x0001",
+    "debug": "0x0002",
+    "run": "0x0003",
+    "run-cell": "0x0004",
+    "run-cell-inplace": "0x0005",
+    "step-forward": "0x0006",
+    "step-into": "0x0007",
+    "step-out": "0x0008",
+    "step-over": "0x0009",
+    "stop": "0x000A"
+}
