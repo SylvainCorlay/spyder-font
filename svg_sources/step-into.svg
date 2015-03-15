@@ -10,9 +10,6 @@
      d="m 11,7.9999991 18,0 L 29,11 11,11 z M 17.75,12.5 l 11.25,0 0,3 -11.25,0 z m 0,4.5 11.25,0 0,3 -11.25,0 z m 0,4.5 11.25,0 0,3 -11.25,0 z M 11,26 l 18,0 0,3 -18,0 z"
      style="fill:#000000" />
   <path
-     d="m 3,4 0,1 0,12 0,1 1,0 8,0 0,-2 L 5,16 5,6 12,6 12,4 4,4 3,4 z"
-     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans" />
-  <path
-     d="m 14.308,17 -3.46,2 0,-4 3.46,2 z"
-     style="fill-rule:evenodd;stroke:none;stroke-width:0.40000000000000002pt;fill:#000000;fill-opacity:1" />
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     d="M 3 4 L 3 5 L 3 17 L 3 18 L 4 18 L 10.84375 18 L 10.84375 19 L 14.3125 17 L 10.84375 15 L 10.84375 16 L 5 16 L 5 6 L 12 6 L 12 4 L 4 4 L 3 4 z " />
 </svg>
