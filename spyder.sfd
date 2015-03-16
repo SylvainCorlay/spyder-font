@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1426452021
-ModificationTime: 1426460972
+ModificationTime: 1426536162
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -46,20 +46,20 @@ OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
-Encoding: ISO8859-1
+Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 50 25 7
+WinInfo: 57275 25 9
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 256 10
+BeginChars: 1114112 10
 
-StartChar: A
-Encoding: 65 65 0
+StartChar: uniE000
+Encoding: 57344 57344 0
 Width: 1000
 VWidth: 0
 Flags: HW
@@ -76,11 +76,10 @@ SplineSet
  188 -75 l 1
  188 675 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
-StartChar: B
-Encoding: 66 66 1
+StartChar: uniE001
+Encoding: 57345 57345 1
 Width: 1000
 VWidth: 0
 Flags: HW
@@ -105,8 +104,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: C
-Encoding: 67 67 2
+StartChar: uniE002
+Encoding: 57346 57346 2
 Width: 1000
 VWidth: 0
 Flags: HW
@@ -121,8 +120,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: D
-Encoding: 68 68 3
+StartChar: uniE003
+Encoding: 57347 57347 3
 Width: 1000
 VWidth: 0
 Flags: HW
@@ -171,8 +170,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: E
-Encoding: 69 69 4
+StartChar: uniE004
+Encoding: 57348 57348 4
 Width: 1000
 VWidth: 0
 Flags: HW
@@ -242,11 +241,10 @@ SplineSet
  359 100 l 1
  310 100 l 2
 EndSplineSet
-Validated: 1
 EndChar
 
-StartChar: F
-Encoding: 70 70 5
+StartChar: uniE005
+Encoding: 57349 57349 5
 Width: 1000
 VWidth: 0
 Flags: HW
@@ -281,11 +279,10 @@ SplineSet
  94 456 l 1
  94 488 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
-StartChar: G
-Encoding: 71 71 6
+StartChar: uniE006
+Encoding: 57350 57350 6
 Width: 1000
 VWidth: 0
 Flags: HW
@@ -335,11 +332,10 @@ SplineSet
  94 644 l 1
  94 675 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
-StartChar: H
-Encoding: 72 72 7
+StartChar: uniE007
+Encoding: 57351 57351 7
 Width: 1000
 VWidth: 0
 Flags: HW
@@ -389,11 +385,10 @@ SplineSet
  94 269 l 1
  94 300 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
-StartChar: I
-Encoding: 73 73 8
+StartChar: uniE008
+Encoding: 57352 57352 8
 Width: 1000
 VWidth: 0
 Flags: HW
@@ -443,11 +438,10 @@ SplineSet
  94 738 l 1
  94 769 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
-StartChar: J
-Encoding: 74 74 9
+StartChar: uniE009
+Encoding: 57353 57353 9
 Width: 1000
 VWidth: 0
 Flags: HW
@@ -461,7 +455,6 @@ SplineSet
  125 -75 l 1
  125 675 l 1
 EndSplineSet
-Validated: 1
 EndChar
 EndChars
 EndSplineFont

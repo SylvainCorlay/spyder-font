@@ -1,12 +1,12 @@
 {
-    "continue": "0x0041",
-    "debug": "0x0042",
-    "run": "0x0043",
-    "run-cell": "0x0044",
-    "run-cell-inplace": "0x0045",
-    "step-forward": "0x0046",
-    "step-into": "0x0047",
-    "step-out": "0x0048",
-    "step-over": "0x0049",
-    "stop": "0x004A"
+    "continue": "0xE000",
+    "debug": "0xE001",
+    "run": "0xE002",
+    "run-cell": "0xE003",
+    "run-cell-inplace": "0xE004",
+    "step-forward": "0xE005",
+    "step-into": "0xE006",
+    "step-out": "0xE007",
+    "step-over": "0xE008",
+    "stop": "0xE009"
 }
